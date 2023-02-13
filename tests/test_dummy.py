@@ -1,4 +1,5 @@
 import pytest
+
 from ocetrac_cmip6.dummy_module import dummy_foo
 
 
